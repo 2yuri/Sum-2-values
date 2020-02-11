@@ -1,2 +1,3 @@
 # Sum-2-values
-Digit the values and sum them
+# Digit the values and sum them
+Learning
