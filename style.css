@@ -1,0 +1,49 @@
+#app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-style: italic;
+  width: 100vw;
+  height: 100vh;
+  border: none;
+  background-size: contain;
+  font-family: '"Fira Code"';
+  border-color: purple;
+}
+
+body {
+  background-color: #dddddd;
+  background-image: url(oi.jpg);
+
+}
+input{
+  width: 200px;
+  height: 50px;
+  border: flex;
+  border-color:black;
+  background-color: purple;
+  color: black;
+  background-color: purple;
+  border-radius: 8px;
+  text-align: center;
+  
+}
+
+button {
+color: purple;
+background-color: white;
+border-color: purple;
+font-size: 15px;
+border-radius: 8px;
+width: 100px;
+height: 50px;
+}
+
+button:hover {
+  color: white;
+  background-color: purple;
+  border-color: black;
+  transform: rotate(1turn);
+  transition: all 0.5s;
+}
