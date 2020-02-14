@@ -44,6 +44,6 @@ button:hover {
   color: white;
   background-color: purple;
   border-color: black;
-  transform: rotate(1turn);
+  transform: rotateY(360deg);
   transition: all 0.5s;
 }
